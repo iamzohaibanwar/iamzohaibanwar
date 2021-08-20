@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://media-exp1.licdn.com/dms/image/C4E16AQEO22kh-dcLbA/profile-displaybackgroundimage-shrink_200_800/0/1620072697349?e=1634774400&v=beta&t=EMdbPpR0Ua54nLWAJgX0bS0Eiq4581JxIRYN-AJ3m7o" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zohaib</h1>
-<h3 align="center" >I am a self-taught/independent creative developer. I believe in three things. Make it work, make it right & make it fast. Love to write well-designed, testable, efficient codes by using best development practices, and a little bit of passion about entrepreneurship.</h3>
+<h3 align="center">I am a self-taught/independent creative developer. I believe in three things. Make it work, make it right & make it fast. Love to write well-designed, testable, efficient codes by using best development practices, and a little bit of passion about entrepreneurship.</h3>
 
 
 
@@ -46,7 +46,7 @@
     <a href="https://github.com/iamzohaibanwar/github-readme-stats"><img alt="Zohaib Anwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamzohaibanwar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/iamzohaibanwar/github-readme-stats"><img alt="Zohaib Anwar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamzohaibanwar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
 
 <br/>
