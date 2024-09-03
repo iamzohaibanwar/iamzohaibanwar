@@ -1,5 +1,5 @@
 ## Stats 👋
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamzohaibanwar&layout=compact&title_color=539BF5&icon_color=1F6FEB&text_color=ADBAC7&bg_color=22272E&show_icons=true)
 <!--
 **iamzohaibanwar/iamzohaibanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
