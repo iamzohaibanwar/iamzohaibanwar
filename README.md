@@ -1,6 +1,6 @@
 # Hi there! I'm Zohaib 👋  
 
-## 🚀 Full Stack Developer | Building Innovative Digital Solutions  
+## 🚀 Full Stack Developer | Building Innovative Digital Solutions 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iamzohaibanwar&style=flat-square)  
 
