@@ -8,6 +8,10 @@
 
 I'm a passionate Full Stack Developer dedicated to creating robust, scalable web applications that deliver exceptional user experiences. With expertise spanning front-end and back-end technologies, I transform complex business requirements into elegant, efficient digital solutions.  
 
+### 🔥 Featured Projects  
+
+- **Project 1:** [visit](https://aipromptgenerator.online) 
+
 ### 🛠️ Technical Expertise  
 
 #### 🧑‍💻 Programming Languages  
