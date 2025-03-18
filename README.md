@@ -10,7 +10,7 @@ I'm a passionate Full Stack Developer dedicated to creating robust, scalable web
 
 ### 🔥 Featured Projects  
 
-- **AI Prompt Generator:** [visit](https://aipromptgenerator.online) 
+- **AI Prompt Generator:** [aipromptgenerator.online](https://aipromptgenerator.online) 
 
 ### 🛠️ Technical Expertise  
 
